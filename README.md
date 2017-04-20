@@ -1,7 +1,7 @@
-## lista-frutas
+# Lista-frutas
 Ejercicio evaluado
 
-# Descripción:
+## Descripción:
 
 El siguiente ejercicio muestra una página web de una frutería.
 
